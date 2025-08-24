@@ -1,6 +1,6 @@
 On this photos you can see the 3D parts that I have made, and also the photos of complete functional antenna. 
 There is also a photo that shows some basic tools and materials that you will need to use in order to build it, because it's not a item that is ready to use right of the 3D printer.
-It is necessary that you have some skills with tools, because the injuries might follow.
+It is necessary that you have some skills with tools, otherwise the injuries might follow.
 If you dont know how to use drill to drill metal, or you dont know how to solder (needed to solder the antenna fed to the RP SMA connector, and RP SMA connector to the can), then this project is not for you. Please don't try to do it, because you will most likely get injured.  
 
 IF YOU DECIDE TO BUILD THIS ANTENNA, PLEASE CONTACT ME FOR ANY QUESTIONS, I WOULD BE GLAD TO HELP.
