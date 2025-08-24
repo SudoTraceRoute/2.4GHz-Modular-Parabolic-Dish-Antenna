@@ -50,6 +50,12 @@ To create a functional, low-cost 2.4GHz directional antenna that is:
 
 ## 📊 Performance Notes
 
+- The feed is tuned **not by a simple 1/4 wavelength formula**, but based on real reflective path inside the can.
+- The copper feed element is covered with **heat-shrink tubing** (less than 0.1mm thick) to prevent corrosion, without significantly impacting electrical properties.
+- The dish surface is made conductive to **reduce energy loss** as signals reflect across it.
+
+Signal measurements (e.g. RSSI comparison) will be added in `/Measurements/`.
+
 Preliminary signal strength tests show enhanced directional reception in the 2.4GHz Wi-Fi band, with measurable gain compared to typical router antennas. Results may vary depending on local interference and test environment.
 
 > *Further testing and dB gain measurements will be added in the `/Measurements/` folder.*
@@ -58,6 +64,18 @@ Preliminary signal strength tests show enhanced directional reception in the 2.4
 ## 📷 Preview
 
 *Coming soon:* Images and STL files will be added to demonstrate modularity and ease of assembly.
+
+---
+
+## ✅ Skills Demonstrated
+
+- RF theory: feed tuning, reflection, wavelength alignment
+- Mechanical design: adjustable mounts, modular holders
+- 3D modeling & printing: PLA, design for strength
+- Signal performance testing (RSSI)
+- Materials choice for conductivity and mechanical strength
+- Documentation and open-source sharing
+
 
 ---
 
