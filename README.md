@@ -54,6 +54,23 @@ Preliminary signal strength tests show enhanced directional reception in the 2.4
 
 > *Further testing and dB gain measurements will be added in the `/Measurements/` folder.*
 
+
+## 📷 Preview
+
+*Coming soon:* Images and STL files will be added to demonstrate modularity and ease of assembly.
+
+---
+
+## 📝 License
+
+This project is open source under the **MIT License** — feel free to modify, share, or build on it, with credit.
+
+---
+
+## 📬 Contact
+
+Feel free to open an issue or fork the repo if you'd like to contribute or ask questions.
+
 ---
 
 ## 📁 Project Structure
