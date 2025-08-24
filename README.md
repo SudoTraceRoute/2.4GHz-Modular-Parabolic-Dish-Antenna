@@ -100,8 +100,7 @@ Feel free to open an issue or fork the repo if you'd like to contribute or ask q
 Complete antenna mounted on the tripod:
 https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/main/Photos_of_antenna/IMG_20250824_152351%20(1).jpg
 
-Complete antenna without tripod:
-https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/main/Photos_of_antenna/IMG_20250824_151917.jpg
+
 
 
 
