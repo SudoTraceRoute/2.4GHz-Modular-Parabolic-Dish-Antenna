@@ -99,6 +99,12 @@ https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/mai
 https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/main/Photos_of_antenna/IMG_20250716_165126%20(1).jpg
 
 
+## 🎯 Why I Built This
+
+This project was part of my hands-on learning in preparation for a career in IT and wireless networking.  
+I have no formal IT degree, but I'm building and testing real hardware to deepen my knowledge in RF behavior, Wi-Fi diagnostics, Linux tooling, and network infrastructure.  
+
+
 
 
 
