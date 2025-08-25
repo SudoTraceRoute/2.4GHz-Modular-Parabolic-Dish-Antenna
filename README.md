@@ -102,6 +102,19 @@ This project was part of my hands-on learning in preparation for a career in IT 
 I have no formal IT degree, but I'm building and testing real hardware to deepen my knowledge in RF behavior, Wi-Fi diagnostics, Linux tooling, and network infrastructure.  
 
 
+---
+
+---
+
+## ✅ Project Status: Complete
+
+This hardware build is finished and has successfully demonstrated directional Wi-Fi reception improvements compared to standard omnidirectional antennas.
+
+Further experimentation, signal testing, and network analysis will be explored in future, related projects using this antenna.
+
+
+
+
 
 
 
