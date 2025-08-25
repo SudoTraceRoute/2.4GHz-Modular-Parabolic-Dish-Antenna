@@ -86,10 +86,6 @@ Feel free to open an issue or fork the repo if you'd like to contribute or ask q
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## PhotosOfAntenna
 
 Complete antenna mounted on the tripod:
@@ -98,6 +94,7 @@ https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/mai
 3D printed parts for the antenna:
 https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/main/Photos_of_antenna/IMG_20250716_165126%20(1).jpg
 
+---
 
 ## 🎯 Why I Built This
 
