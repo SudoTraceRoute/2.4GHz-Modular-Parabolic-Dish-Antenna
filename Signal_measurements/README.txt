@@ -5,6 +5,7 @@ Testing was conducted using:
 - External USB Wi-Fi adapter with monitor mode (via `aircrack-ng`)
 - `airodump-ng` for real-time signal strength (PWR)
 - Controlled indoor setup with fixed placement
+- ESSID "asdfgh"
 
 | Antenna | Avg. PWR (dBm) | Notes |
 |--------|----------------|-------|
