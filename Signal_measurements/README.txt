@@ -9,7 +9,7 @@ Testing was conducted using:
 | Antenna | Avg. PWR (dBm) | Notes |
 |--------|----------------|-------|
 | Omnidirectional | ~-33 dBm | Stable signal |
-| Custom Parabolic + Cantenna | Peaks at **-26 dBm**, dips to -80 dBm | Strongest signal observed, but highly directional and sensitive to alignment |
+| 2.4GHz-Modular-Parabolic-Dish-Antenna | Peaks at **-26 dBm**, dips to -80 dBm | Strongest signal observed, but highly directional and sensitive to alignment |
 
 ### 🔍 Observations
 
