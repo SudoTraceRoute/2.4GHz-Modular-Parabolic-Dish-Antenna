@@ -1,0 +1,32 @@
+## ⚠️ Build Disclaimer
+
+This is **not** a beginner project. The parts you see in this repository are **not ready-to-use straight from a 3D printer**.
+
+To successfully build this antenna, you should already have experience with:
+
+- **Drilling and cutting metal parts** (e.g., waveguide can, brackets)
+- **Sanding and finishing 3D printed parts** to fit tolerances
+- **Soldering** coaxial connectors (e.g., SMA/RP-SMA)
+- **Basic electrical knowledge** (impedance, polarity, shielding)
+- **Some understanding of Wi-Fi theory** (e.g., polarization, wavelength, antenna gain)
+
+> If you're not already comfortable with these skills, I strongly recommend practicing them on simpler projects first.
+
+### 🧱 What This Project Is:
+- A hands-on experiment in building a high-gain directional Wi-Fi antenna
+- A foundation for more advanced wireless/RF work
+- A portfolio project showing practical IT/hardware skills
+
+### ❌ What This Project Is Not:
+- A plug-and-play antenna kit
+- A no-tools-required project
+- A suitable entry point for someone with no experience in electronics or RF hardware
+
+---
+
+## 🔧 Notes on Printed Parts
+
+Even if you have a 3D printer:
+- Some parts **will need to be drilled or widened** to fit actual hardware
+- Alignments must be **measured and adjusted manually**
+- Real-world tolerances vary between printers and materials
