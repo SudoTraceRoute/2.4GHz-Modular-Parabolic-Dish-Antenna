@@ -98,9 +98,8 @@ https://github.com/SudoTraceRoute/2.4GHz-Modular-Parabolic-Dish-Antenna/blob/mai
 
 ## 🎯 Why I Built This
 
-This project was part of my hands-on learning in preparation for a career in IT and wireless networking.  
-I have no formal IT degree, but I'm building and testing real hardware to deepen my knowledge in RF behavior, Wi-Fi diagnostics, Linux tooling, and network infrastructure.  
-
+As a part of my hobby I'm building and testing real hardware to deepen my knowledge in RF behavior, Wi-Fi diagnostics, Linux tooling, and network infrastructure.  
+I have interest in networking, programming and other fun stuff.
 
 ---
 
